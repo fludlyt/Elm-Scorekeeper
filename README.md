@@ -4,9 +4,12 @@ This is a basketball scorekeeper app based on the excellent [Elm For Beginners](
 
 I highly recommend the course if you want to get started with Elm and checkout [An Introduction to Elm](http://guide.elm-lang.org/) to learn more.
 
-To run, clone this repo and run:
+To run first install Elm by running ```npm install -g elm```
 
-``` npm install ```
+Then clone this repo, ```cd``` into the directory and run:
+
+``` npm install ```, 
+```elm-package install```
 and
 ``` gulp ```
 and then visit ```localhost:4000``` in your browser.
